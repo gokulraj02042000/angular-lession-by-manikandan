@@ -1,0 +1,13 @@
+{
+    "to install angular globally": "npm i -g @angular/cli",
+    "create a project" : "ng new <projectName>",
+    "to start a  project": "npm start",
+    "tsconfig:json": "typescript config",
+    "package.json" : "project packages and then scripts",
+    "angular.json": "angular project config",
+    "to create component": "ng g c <componentName>",
+    "to add angular material package": "ng add @angular/material",
+    "to learn more about observable": "learn rxjs",
+    "api calls": "httpclientmodule",
+    "navigation": "ROuter module"
+}
