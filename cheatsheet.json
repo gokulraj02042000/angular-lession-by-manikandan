@@ -9,5 +9,6 @@
     "to add angular material package": "ng add @angular/material",
     "to learn more about observable": "learn rxjs",
     "api calls": "httpclientmodule",
-    "navigation": "ROuter module"
+    "navigation": "ROuter module",
+    "lesson by": "manikandan"
 }
